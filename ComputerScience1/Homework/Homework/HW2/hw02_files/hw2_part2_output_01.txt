@@ -1,7 +1,0 @@
-Enter a string to encode ==> why so serious
-why so serious
-
-Encrypted as ==> wh*%$ s7654 s2(*2(ri7654@@@s
-Difference in length ==> 14
-Deciphered as ==> why so serious
-Operation is reversible on the string.

@@ -1,7 +1,0 @@
-Enter a string to encode ==> backoff man I am a scientist
-backoff man I am a scientist
-
-Encrypted as ==> ba%47654ff m-? I%4%m%4% sci2(*2(ntist
-Difference in length ==> 9
-Deciphered as ==> backoff man Ick%mck% scientist
-Operation is not reversible on the string.
