@@ -1,0 +1,13 @@
+Enter frame character ==> .
+.
+Height of box ==> 5
+5
+Width of box ==> 7
+7
+
+Box:
+.......
+.     .
+. 7x5 .
+.     .
+.......

@@ -1,0 +1,16 @@
+Minutes ==> 53
+53
+
+Seconds ==> 30
+30
+
+Miles ==> 6.3
+6.3
+
+Target Miles ==> 2.7
+2.7
+
+
+Pace is 8 minutes and 29 seconds per mile.
+Speed is 7.07 miles per hour.
+Time to run the target distance of 2.70 miles is 22 minutes and 55 seconds.
