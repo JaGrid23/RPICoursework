@@ -1,0 +1,4 @@
+Enter a sentence => Dr. Horrible's Sing-Along Blog is an excellent show.
+Dr. Horrible's Sing-Along Blog is an excellent show.
+Sentiment: +-
+This is a neutral sentence.

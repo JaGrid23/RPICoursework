@@ -1,0 +1,60 @@
+Let's play Mad Libs for Homework 1
+Type one word responses to the following:
+
+proper_name ==> Alex
+Alex
+
+adjective ==> interesting
+interesting
+
+noun ==> semester
+semester
+
+verb ==> looking
+looking
+
+verb ==> write
+write
+
+noun ==> code
+code
+
+emotion ==> proud
+proud
+
+verb ==> struggle
+struggle
+
+noun ==> term
+term
+
+season ==> summer
+summer
+
+adjective ==> great
+great
+
+emotion ==> excited
+excited
+
+team-name ==> Nadal
+Nadal
+
+noun ==> US Open
+US Open
+
+adjective ==> nice
+nice
+
+Here is your Mad Lib...
+
+Good morning Alex!
+
+  This will be a/an interesting semester! Are you looking forward to it?
+  You will write a lot of code and feel proud when you do.
+  If you do not, you will struggle this term.
+
+  This fall was great. Were you excited when Nadal won
+  the US Open?
+
+  Have a/an nice day!

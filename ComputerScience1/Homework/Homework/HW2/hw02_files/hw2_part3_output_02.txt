@@ -1,0 +1,4 @@
+Enter a sentence => I laughed and laughed at her excellent joke.
+I laughed and laughed at her excellent joke.
+Sentiment: +++
+This is a happy sentence.

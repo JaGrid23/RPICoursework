@@ -1,0 +1,19 @@
+Enter frame character ==> #
+#
+
+Height of box ==> 8
+8
+
+Width of box ==> 11
+11
+
+
+Box:
+###########
+#         #
+#         #
+#  11x8   #
+#         #
+#         #
+#         #
+###########

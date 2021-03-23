@@ -1,0 +1,10 @@
+Enter the gum ball radius (in.) => 0.5
+0.5
+Enter the weekly sales => 1
+1
+
+The machine needs to hold 2 gum balls along each edge.
+Total edge length is 2.00 inches.
+Target sales were 2, but the machine will hold 6 extra gum balls.
+Wasted space is 6.95 cubic inches with the target number of gum balls,
+or 3.81 cubic inches if you fill up the machine.
